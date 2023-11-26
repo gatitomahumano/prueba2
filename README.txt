@@ -1,10 +1,5 @@
-aqui trabaja mario{
-Hola soy mario <i class=" fa-eclipse-alt    "></i>
-es mi historia
-Naci un día
-mas historia 
-mas histroia
-}
+esta muy mal, ya ni lo envies, estas fuera
+
 
 aqui trabaja alex{
 Titlo: Mi vida
